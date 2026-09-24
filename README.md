@@ -162,6 +162,32 @@ uv run python scripts/simulate_transactions.py
 
 ---
 
+## 👥 Contributors
+
+Thanks to these wonderful people who have contributed to this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dipak-7777">
+        <img src="https://github.com/Dipak-7777.png" width="100px;" alt="Dipak Kumar Das"/>
+        <br />
+        <sub><b>Dipak Kumar Das</b></sub>
+      </a>
+      <br />
+      💻 🤖 📖 🎨
+    </td>
+  </tr>
+</table>
+
+**Legend:**
+- 💻 Code
+- 🤖 ML/AI Development
+- 📖 Documentation
+- 🎨 Design
+
+---
+
 ## 👤 Author
 **[Dipak Kumar Das]**
 - GitHub: [@Dipak-7777](https://github.com/Dipak-7777)
